@@ -1,0 +1,9 @@
+syntax = "proto3";
+package pb;
+
+message CsHeart {
+}
+
+message ScHeart{
+    int64 UnixTime = 1;
+}
